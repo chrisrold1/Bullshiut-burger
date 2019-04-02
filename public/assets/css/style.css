@@ -19,5 +19,6 @@ li {
 }
 
 body{
-  background:rgb(255, 187, 0);
+  background:lightblue;
+  background-image: url("");
 }
